@@ -12,8 +12,7 @@
    - Work with companies that embrace diversity.
    - Collaborate in frontend development.
 
-### 📫 You can reach out to me via:
-   - Linkedin - https://www.linkedin.com/in/zaida-montano-42a6b321/ 
+
 
 <!--
 **ZaidaMM/ZaidaMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
