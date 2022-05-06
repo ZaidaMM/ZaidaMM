@@ -2,7 +2,7 @@
 ### Hi there 👋 I'm ZaidaMM - Zaida Montano
 
 ### Software Developer
-  - 🌱 Frontend - ReactJS | React Native | React Redux| SASS | Bootstrap | Material UI
+  - 🌱 Frontend - HTML | CSS | JavaScript | ReactJS | React Native | React Redux| SASS | Bootstrap | Material UI
   - 🌱 Backend - NodeJs | ExpressJs | MongoDB
 
 ### 👀 I’m interested in:
